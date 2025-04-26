@@ -1,11 +1,11 @@
 # Sales-Dashboard
-# 1.Performance Tracking:
+1.Performance Tracking:
 A sales dashboard shows real-time sales data like revenue, targets, conversions, and deals closed, helping teams track their progress.
 
-# 2.Insights and Trends:
+2.Insights and Trends:
 It highlights important metrics like top-selling products, sales growth, customer behavior, and regional performance, making it easier to spot trends and take action.
 
-# 3.Decision Support:
+3.Decision Support:
 By visualizing key sales numbers through charts and graphs, it helps managers and executives make faster, data-driven decisions to improve sales strategies.
 
 # Output
